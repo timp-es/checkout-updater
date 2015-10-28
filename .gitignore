@@ -1,0 +1,4 @@
+# Ignore all directories ie all git repos checked out beneath here
+*/
+*~
+updated.txt
